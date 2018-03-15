@@ -1,0 +1,5 @@
+[2018-03-13 17:14:23.956] [ERROR] -POST-/users/region-TypeError: Cannot set property 'err' of null
+[2018-03-13 17:17:42.106] [ERROR] -POST-/users/region-TypeError: Cannot read property 'name' of undefined
+[2018-03-13 17:25:15.263] [ERROR] -POST-/users/region-ReferenceError: now is not defined
+[2018-03-13 17:26:37.681] [ERROR] -POST-/users/region-Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?,?)' at line 1
+[2018-03-13 17:27:18.529] [ERROR] -POST-/users/region-Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?,?)' at line 1
